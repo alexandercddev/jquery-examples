@@ -19,7 +19,7 @@ input[type=button]{
     cursor: pointer;
 }
 
-input[type=button]{
+input[type=button]:hover{
     background-color: #45a049;
 }
 
