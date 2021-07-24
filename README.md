@@ -1,4 +1,4 @@
-# Portafolio
+# Ejemplos de Jquery
 Es un proyecto en JavaScript con JQuery
 
 ## Descripción
