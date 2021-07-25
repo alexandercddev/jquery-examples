@@ -5,6 +5,7 @@ Es un proyecto en JavaScript con JQuery
 * 01 - Local Storage
 * 02 - Poke API
 * 03 - Rick and Morty API
+* 04 - Marvel API
 
 ## Desarrolladores
 * Dev. Alexander Chi Domínguez
