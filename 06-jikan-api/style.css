@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.div__filter,
+.div__pages {
+    display: flex; 
+    justify-content: center;
+}
+
+.div__content{ 
+    width: 100%;
+    display: flex;   
+    justify-content: center;
+}
+
+.div__img{
+    display: flex;  
+    flex-direction: column;
+    align-items: center; 
+    width: 50%;
+}
